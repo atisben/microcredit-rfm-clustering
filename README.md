@@ -56,6 +56,14 @@ also by profitability and ris [1]
 ## Future work
 Use hybrid regression and clustering methods 
 
+ PCA method is
+then used to determine the weight of RFM indicators
+
+Heldt et al. proposed a
+RFM per product (RFM/P) model. In this model, customer
+values of all products are estimated separately first and then
+added together to obtain an overall customer value
+
 # References
 1. Ryals, L. (2002). Measuring risk and returns in the customer portfolio. Journal of Database Marketing & Customer Strategy Management, 9(3), 219–227. 
 2. Wang, B., Kong, Y., Zhang, Y., Liu, D., & Ning, L. (2019). Integration of Unsupervised and Supervised Machine Learning Algorithms for Credit Risk Assessment. Expert Systems with Applications. 
