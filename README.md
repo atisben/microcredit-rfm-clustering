@@ -1,6 +1,11 @@
 # Data analysis case study
+
+## Introduction
+Microcredit, often heralded as a powerful tool for poverty alleviation and financial inclusion, has revolutionized the way underserved communities access financial services. At its core, microcredit involves extending small loans to individuals who lack access to traditional banking, enabling them to embark on entrepreneurial endeavors, address immediate financial needs, and ultimately improve their livelihoods. However, while the potential benefits of microcredit are immense, they are intricately tied to the effective management of risk. In this context, risk management becomes a critical facet, ensuring the sustainability of microcredit programs and safeguarding the interests of both lenders and borrowers. This introduction explores the dynamic relationship between microcredit and risk management, shedding light on how these two aspects intertwine to foster economic empowerment and social development.
+
 ## Objective
-The objective of this assignment is to use the transactional data available to define a
+In this project, our goal is to harness the available transactional data to establish a comprehensive risk segmentation of all customers, categorizing them into four distinct risk classes - A, B, C, and D, where A represents the least risky customers and D represents the most risky customers. To accomplish this, we will embark on a multifaceted journey that includes analyzing transactional data, utilizing statistical techniques, and crafting a persuasive slide deck with visual aids to communicate our findings and recommendations effectively.
+The objective is to use the transactional data available to define a
 risk segmentation of all customers. The segmentation should include 4 risk classes -
 A, B, C, and D - where A represents the least risky customers and D represents the
 most risky customers.
